@@ -1,4 +1,4 @@
-# Ciao, sono Karim Agdoud 👋
+# Ciao, I am Karim Agdoud 👋
 
 I'm a 17-year-old student from Italy, passionate about **Software Engineering** and **Backend Development**. Currently focused on mastering **Java, C++ and Python**, object-oriented programming, and relational databases.
 
