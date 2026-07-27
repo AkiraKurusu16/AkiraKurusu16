@@ -1,16 +1,13 @@
-## Hi there 👋
+# Ciao, sono Karim Agdoud 👋
 
-<!--
-**AkiraKurusu16/AkiraKurusu16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a 17-year-old student from Italy, passionate about **Software Engineering** and **Backend Development**. Currently focused on mastering **Java, C++ and Python**, object-oriented programming, and relational databases.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Tools
+
+- **Language:** Java / C++ / Python.
+- **Databases:** SQL (MySQL, PostgreSQL)
+- **Version Control:** Git & GitHub
+- **IDEs:** IntelliJ IDEA, VS Code
+- **Currently Learning:** Spring Boot & REST APIs
