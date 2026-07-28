@@ -11,3 +11,9 @@ I'm a 17-year-old student from Italy, passionate about **Software Engineering** 
 - **Version Control:** Git & GitHub
 - **IDEs:** IntelliJ IDEA, VS Code
 - **Currently Learning:** Spring Boot & REST APIs
+
+---
+
+###    Other things I'm working with
+
+- **Making ESP 32 projects involving the softwares and hardwares**
