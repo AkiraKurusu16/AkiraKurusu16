@@ -6,11 +6,11 @@ I'm a 17-year-old student from Italy, passionate about **Software Engineering** 
 
 ### 🛠️ Tech Stack & Tools
 
-- **Language:** Java / C++ / Python.
-- **Databases:** SQL (MySQL, PostgreSQL)
+- **Language:** Java / C++ / Python / C.
+- **Databases:** SQL (MySQL, PostgreSQL), JSON.
 - **Version Control:** Git & GitHub
-- **IDEs:** IntelliJ IDEA, VS Code
-- **Currently Learning:** Spring Boot & REST APIs
+- **IDEs:** VS Code
+- **Currently Learning:** General coding, Spring Boot & REST APIs
 
 ---
 
