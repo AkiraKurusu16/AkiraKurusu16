@@ -8,9 +8,9 @@ I'm a 17-year-old student from Italy, passionate about **Software Engineering** 
 
 - **Language:** Java / C++ / Python / C.
 - **Databases:** SQL (MySQL, PostgreSQL), JSON.
-- **Version Control:** Git & GitHub
-- **IDEs:** VS Code
-- **Currently Learning:** General coding, Spring Boot & REST APIs
+- **Version Control:** Git & GitHub.
+- **IDEs:** VS Code.
+- **Currently Learning:** General coding, Spring Boot & REST APIs.
 
 ---
 
